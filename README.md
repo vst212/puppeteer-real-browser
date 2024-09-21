@@ -165,7 +165,7 @@ To run a test, you can follow these steps
 
 
 ```bash
-git clone https://github.com/zfcsoftware/puppeteer-real-browser
+git clone https://github.com/vst212/puppeteer-real-browser
 ```
 
 ```bash
